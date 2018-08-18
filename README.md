@@ -5,6 +5,7 @@ This plugin adds a simple file browser to the summernote editor from https://sum
 This asp.net C# file browser allows you to browse a folder on your website (set as /docs/ as default) and will insert an image in your page for .jpg, .png, .gif and .svg files or will create a link for other file types.
 
 Requires Bootstrap 4
+
 Requires Font Awesome
 
 ## Installation
@@ -46,3 +47,8 @@ $(document).ready(function () {
             });
         });
 ```
+## In Use
+
+You can view a demo video of this file browser in use
+
+[![](http://img.youtube.com/vi/ktV_6uy4zEw/0.jpg)](http://www.youtube.com/watch?v=ktV_6uy4zEw "Video demo")
